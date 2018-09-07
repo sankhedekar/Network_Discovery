@@ -1,4 +1,4 @@
-# Network Discovery (Still under development)
+# Network Discovery (Currently under development)
 
 Run the network_discovery.py file which imports the scan.py file.
 
